@@ -1,0 +1,767 @@
+WOVEN WORDS
+TEXTBOOK
+
+IN
+
+ENGLISH
+
+FOR
+
+d
+e
+
+CLASS XI
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+(ELECTIVE COURSE)
+
+o
+n
+
+ISBN 81-7450-514-8
+First Edition
+March 2006 Phalguna 1927
+Reprinted
+October 2006 Kartika 1928
+November 2007 Kartika 1929
+February 2009 Magha 1930
+
+ALL RIGHTS RESERVED
+
+
+No part of this publication may be reproduced, stored in a
+retrieval system or transmitted, in any form or by any means,
+electronic, mechanical, photocopying, recording or
+otherwise without the prior permission of the publisher.
+
+
+
+This book is sold subject to the condition that it shall not,
+by way of trade, be lent, re-sold, hired out or otherwise
+disposed of without the publisher’s consent, in any form of
+binding or cover other than that in which it is published.
+
+
+
+The correct price of this publication is the price printed on
+this page, Any revised price indicated by a rubber stamp or
+by a sticker or by any other means is incorrect and should
+be unacceptable.
+
+PD 9T MJ
+© National Council of
+Educational Research and
+Training, 2006
+
+OFFICES OF THE PUBLICATION
+DEPARTMENT, NCERT
+
+d
+e
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+
+Rs 75.00
+
+NCERT Campus
+Sri Aurobindo Marg
+New Delhi 110 016
+
+Phone : 011-26562708
+
+108, 100 Feet Road
+Hosdakere Halli Extension
+Banashankari III Stage
+Bangalore 560 085
+
+Phone : 080-26725740
+
+Navjivan Trust Building
+P.O.Navjivan
+Ahmedabad 380 014
+
+Phone : 079-27541446
+
+CWC Campus
+Opp. Dhankal Bus Stop
+Panihati
+Kolkata 700 114
+
+Phone : 033-25530454
+
+CWC Complex
+Maligaon
+Guwahati 781 021
+
+Phone : 0361-2674869
+
+Publication Team
+
+o
+n
+
+Head, Publication
+Department
+
+: Peyyeti Rajakumar
+
+Chief Production
+Officer
+
+: Shiv Kumar
+
+Chief Editor
+
+: Shveta Uppal
+
+Printed on 80 GSM paper with
+NCERT watermark
+
+Chief Business
+Manager
+
+: Gautam Ganguly
+
+Published at the Publication
+Department by the Secretary,
+National Council of Educational
+Research and Training, Sri
+Aurobindo Marg, New Delhi
+1 1 0 016 a n d p r i n t e d a t
+Tarang Printers, F-40, Site- ‘C’,
+Surajpur Industrial Area, Greater
+Noida (UP)
+
+Editor
+
+: M.G. Bhagat
+
+Assistant Production: Rajender Chauhan
+Officer
+Cover
+Shweta Rao
+Illustrator
+Meha Gupta
+
+FOREWORD
+The National Curriculum Framework, (NCF) 2005, recommends that
+children's life at school must be linked to their life outside the school.
+This principle marks a departure from the legacy of bookish learning
+which continues to shape our system and causes a gap between the
+school, home and community. The syllabi and textbooks developed
+on the basis of NCF signify an attempt to implement this basic idea.
+They also attempt to discourage rote learning and the maintenance
+of sharp boundaries between different subject areas. We hope these
+measures will take us significantly further in the direction of a childcentred system of education outlined in the National Policy on
+Education (1986).
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+
+d
+e
+
+The success of this effort depends on the steps that school
+principals and teachers will take to encourage children to reflect on
+their own learning and to pursue imaginative activities and questions.
+We must recognise that, given space, time and freedom, children
+generate new knowledge by engaging with the information passed on
+to them by adults. Treating the prescribed textbook as the sole basis
+of examination is one of the key reasons why other resources and
+sites of learning are ignored. Inculcating creativity and initiative is
+possible if we perceive and treat children as participants in learning,
+not as receivers of a fixed body of knowledge.
+
+These aims imply considerable change in school routines and
+mode of functioning. Flexibility in the daily time-table is as necessary
+as rigour in implementing the annual calendar so that the required
+number of teaching days are actually devoted to teaching. The
+methods used for teaching and evaluation will also determine how
+effective this textbook proves for making children’s life at school a
+happy experience, rather than a source of stress or boredom. Syllabus
+designers have tried to address the problem of curricular burden by
+restructuring and reorienting knowledge at different stages with
+greater consideration for child psychology and the time available for
+teaching. The textbook attempts to enhance this endeavour by giving
+higher priority and space to opportunities for contemplation and
+wondering, discussion in small groups, and activities requiring
+hands-on experience.
+
+o
+n
+
+The National Council of Educational Research and Training
+(NCERT) appreciates the hard work done by the textbook development
+
+iv
+committee responsible for this book. We wish to thank the Chairperson
+of the advisory group in languages, Professor Namwar Singh and the
+Chief Advisor for this book, Professor R. Amritavalli for guiding the
+work of this committee. Several teachers contributed to the
+development of this textbook; we are grateful to their principals for
+making this possible. We are indebted to the institutions and
+organisations which have generously permitted us to draw upon their
+resources, material and personnel. We are especially grateful to the
+members of the National Monitoring Committee, appointed by the
+Department of Secondary and Higher Education, Ministry of Human
+Resource Development under the Chairmanship of Professor Mrinal
+Miri and Professor G.P. Deshpande, for their valuable time and
+contribution. As an organisation committed to systemic reform and
+continuous improvement in the quality of its products, NCER T
+welcomes comments and suggestions which will enable us to undertake
+further revision and refinement.
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+
+d
+e
+
+New Delhi
+20 December 2005
+
+o
+n
+
+Director
+National Council of Educational
+Research and Training
+
+TEXTBOOK DEVELOPMENT COMMITTEE
+CHAIRPERSON, ADVISORY GROUP FOR TEXTBOOKS IN LANGUAGES
+Namwar Singh, Professor, formerly Chairman, School of Languages,
+Jawaharlal Nehru University, New Delhi
+CHIEF ADVISOR
+
+d
+e
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+
+R. Amritavalli, Professor, Central Institute of English and Foreign
+Languages (CIEFL), Hyderabad
+CHIEF COORDINATOR
+
+Ram Janma Sharma, Professor and Head, Department of Languages,
+NCERT, New Delhi
+MEMBERS
+
+Geetali Dowarah, Post Lahoal: Dibrugarh, Assam
+
+Irene Duarte Dias, Teacher, Pawan School, Dharwad, Karnataka
+N. Khan, Reader, Department of Languages, NCERT
+Malathy Krishnan, Reader, CIEFL, Hyderabad
+
+P. N. Singh, Gautam Buddha Nagar, Malgodam Road, Gazipur
+
+S. C. Dubey, Professor, Department of English, University of
+Allahabad, Allahabad
+
+o
+n
+
+V. D. Singh, Professor (Retd.), ‘Harsha’ 1-JA-10, Jawahar Nagar, Jaipur
+
+Vandana R. Singh, Senior Lecturer, Department of English,
+Govt. College for Girls, Sector XI, Chandigarh
+MEMBER-COORDINATOR
+
+Varada M. Nikalje, Lecturer, Department of Languages, NCERT,
+New Delhi
+
+ACKNOWLEDGEMENTS
+The National Council of Educational Research and Training is grateful to
+Professor M.L. Tickoo, formerly of the Central Institute of English and
+Foreign Languages and the Regional Language Centre, Singapore, for going
+through this book and offering valuable suggestions. Our thanks are also
+due to Archana Geelani, Teacher, Ramjas School, R.K. Puram, New Delhi,
+for her contribution.
+We are sincerely grateful to the authors whose works will enrich the
+lives of many learners by being a part of this book.
+For permission to reproduce copyright material in this book, NCERT
+would like to thank the following: Oxford University Press, New Delhi, for
+‘The Peacock’ by Sujata Bhatt from Nine Indian Women Poets, ‘Glory at
+Twilight’ by Bhabani Bhattacharya from Short Stories for Pleasure and Profit,
+‘Telephone Conversation’ by Wole Soyinka from Soulful Voices; Deccan
+Herald, Bangalore, for the interview of S. Chandrasekhar; Macmillan India
+Limited for ‘Tribal Verse’ by G.N. Devy from Cultural Diversity, Linguistic
+Plurality and Literary Traditions of India, ‘Refugee Blues’ by W.H. Auden and
+‘Hawk Roosting’ by Ted Hughes from The Golden Quill: An Anthology of Poetry;
+IndiaInk Publishers, New Delhi, for ‘Pappachi’s Moth’ (an excerpt) by
+Arundhati Roy from The God of Small Things; Harper Collins, New Delhi,
+for ‘The Third and Final Continent’ by Jhumpa Lahiri from The Interpreter
+of Maladies; Directorate of Textbooks, Bangalore, for ‘Ajamil and the Tigers’
+by Arun Kolatkar; Orient Longman, Hyderabad, for ‘Coming’ by Philip Larkin
+from Appreciating English Poetry; Sahitya Akademi, New Delhi, for ‘Mother
+Tongue’ by Padma Sachdev from A Handful of Sun and other Poems; Clearing
+House for ‘Felling of the Banyan Tree’ by Dilip Chitre from Travelling in a
+Cage; Pre-University Education Board, Bangalore, for ‘For Elkana’ by Nissim
+Ezekiel; National Book Trust, New Delhi for ‘Bridges’ by Kumudini Lakhiya
+from Women who Dared; Penguin Books India, New Delhi, for ‘Patterns of
+Creativity’ by S. Chandrasekhar; and Penguin Books Limited, London, for
+‘The Story’ (an excerpt) by E.M. Forster from Aspects of the Novel.
+The Council also acknowledges the services of Parash Ram, Incharge,
+Computer Station, NCERT; Neena Chandra, Copy Editor; Ajay Singh,
+Proof Reader; Mohd. Harun, DTP Operator. The efforts of the Publication
+Department, NCERT, are also highly appreciated.
+
+o
+n
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+
+d
+e
+
+A NOTE
+
+FOR THE
+
+TEACHER
+
+Woven Words is based on the new syllabus in English prepared in
+consonance with the spirit of the National Curriculum Framework
+2005. This textbook is designed for students who have opted to study
+English as an elective subject at the higher secondary stage. The
+main objectives of this book are to help students
+• read literary texts with pleasure and understanding
+• develop critical thinking and literary appreciation
+• develop a sensitivity to the nuances of language.
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+
+d
+e
+
+Woven Words is an integrated book consisting of three sections
+namely, short stories, poems and essays representative of literature
+in English from around the world. Most of the short stories included
+here are by contemporary writers. There is a fair share of Indian
+Writing in English with Mulk Raj Anand, Bhabani Bhattacharya,
+Arundhati Roy and Jhumpa Lahiri reflecting rural, urban and
+diasporic experiences. The Rocking Horse by D.H. Lawrence and The
+Luncheon by Somerset Maugham add native English flavour to the
+collection, and the Sherlock Holmes story would definitely appeal
+to youngsters looking for some thrill in reading. Chekhov’s The
+Lament, a touching account of insensitivity to bereavement,
+underscores the universality of the human condition.
+The aim of this selection is to make learners approach reading
+as a pleasurable activity. The stories are followed by exercises under
+four heads—textual comprehension, talking about the texts, literary
+appreciation and language work. These aim at fostering critical
+reading in the learners and instilling in them the confidence to
+express their responses. The second head encourages learners to
+discuss their responses with each other in pairs or small groups.
+The poetry selection, representing different forms such as the
+lyric, sonnet and ode, reflects some of the pressing concerns of the
+contemporary world such as racial discrimination (Wole Soyinka’s
+Telephone Conversation and W.H. Auden’s Refugee Blues),
+marginalisation of languages (Padma Sachdev’s Mother Tongue),
+environmental issues (Dilip Chitre’s Felling of the Banyan Tree),
+manipulative politics (Arun Kolatkar’s satire, Ajamil and the Tigers),
+and sensitive comment on human relationships (Nissim Ezekiel’s
+For Elkana and Philip Larkin’s Coming). Hawk Roosting by Ted Hughes
+brings out the parallel in human behaviour to the predatory instincts
+
+o
+n
+
+viii
+of animals while Sujata Bhatt’s The Peacock is a delightful
+visualisation of the bird’s colours and grace of movement. Also
+included are all-time classics: pieces of enduring charm and appeal
+from Shakespeare, Wordsworth and Keats. Forms like the limerick
+and the haiku add variety to the reading experience and introduce
+an element of light humour and fun.
+The activities suggested for the poems are directed more at
+eliciting sensitive responses to the issues and the language rather
+than detailed textual comprehension. Difficult words have not been
+glossed as the aim is to encourage learners to make intelligent
+guesses or refer to the dictionary when they encounter unfamiliar
+terms. However, allusions to Greek mythology have been explained.
+A glossary of literary forms and terms has been provided at the end
+of the book.
+While the content of most of the essays provides for serious
+reading, Mark Twain’s My Watch is a humorous piece that lightens
+the section. Bertrand Russell’s The Three Passions, a short excerpt
+from his autobiography, introduces students to a philosopher’s
+perspectives on life and its primary concerns. Three of the essays
+are speeches recorded in writing. John Ruskin’s What is a Good
+Book?, an excerpt from Sesame and Lilies, and E.M. Forster’s piece
+on the elements of a good story, from Aspects of the Novel, prepare
+learners for literary criticism. S. Chandrasekhar’s lecture, Patterns
+of Creativity, explores the relationship between poetry and science.
+G.N. Devy’s Tribal Verse, in another strain, familiarises students
+with recent trends in looking at literature from non-conventional
+standpoints bringing in oral folk traditions into its fold. Kumudini
+Lakhia’s autobiographical extract from Women Who Dared gives
+expression to an artist’s approach to life and art.
+The tasks that follow the essays demand learners’ engagement
+with the texts and lead them on to a deep understanding of life and
+language. Teachers should help learners move towards reading with
+discernment.
+The following are recommended for additional reading:
+The Outsider by Albert Camus; A Doll’s House by Henrik Ibsen;
+Pygmalion by G.B.Shaw and Dancing in Cambodia and Other Stories
+by Amitav Ghosh.
+It is hoped that this course will lay the foundations for a study
+of English language and literature at the tertiary level of education.
+
+o
+n
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+
+d
+e
+
+CONTENTS
+FOREWORD
+A NOTE FOR
+
+THE
+
+TEACHER
+
+Short Stories
+Introduction
+
+iii
+vii
+
+1
+
+d
+e
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+
+1.
+
+The Lament
+Anton Chekhov
+
+2.
+
+A Pair of Mustachios
+Mulk Raj Anand
+
+10
+
+3.
+
+The Rocking-horse Winner
+D.H.Lawrence
+
+19
+
+4.
+
+The Adventure of the Three Garridebs
+Arthur Conan Doyle
+
+37
+
+5.
+
+Pappachi’s Moth
+Arundhati Roy
+
+56
+
+6.
+
+The Third and Final Continent
+Jhumpa Lahiri
+
+62
+
+7.
+
+Glory at Twilight
+Bhabani Bhattacharya
+
+85
+
+8.
+
+The Luncheon
+William Somerset Maugham
+
+99
+
+o
+n
+
+Poetry
+Introduction
+
+2
+
+106
+
+1.
+
+The Peacock
+Sujata Bhatt
+
+107
+
+2.
+
+Let me Not to the Marriage of True Minds
+William Shakespeare
+
+109
+
+3.
+
+Coming
+Philip Larkin
+(Haiku)
+
+111
+113
+
+x
+
+4.
+
+Telephone Conversation
+Wole Soyinka
+
+114
+
+5. The World is too Much With Us
+William Wordsworth
+
+117
+
+6. Mother Tongue
+Padma Sachdev
+
+119
+
+7. Hawk Roosting
+Ted Hughes
+
+121
+
+8. For Elkana
+Nissim Ezekiel
+(The Limerick)
+
+124
+
+9. Refugee Blues
+W. H. Auden
+
+129
+
+d
+e
+
+h
+s
+T
+i
+l
+R
+b
+E
+u
+C
+N rep
+© e
+b
+o
+t
+t
+127
+
+10. Felling of the Banyan Tree
+Dilip Chitre
+
+132
+
+11. Ode to a Nightingale
+John Keats
+
+135
+
+12. Ajamil and the Tigers
+Arun Kolatkar
+
+140
+
+Essays
+Introduction
+
+1. My Watch
+Mark Twain
+2. My Three Passions
+Bertrand Russell
+3. Patterns of Creativity
+S.Chandrasekhar
+4. Tribal Verse
+G.N.Devy
+5. What is a Good Book?
+John Ruskin
+6. The Story
+E.M.Forster
+7. Bridges
+Kumudini Lakhia
+GLOSSARY
+
+o
+n
+
+144
+
+145
+
+150
+
+153
+
+161
+
+174
+182
+188
+198
+
+

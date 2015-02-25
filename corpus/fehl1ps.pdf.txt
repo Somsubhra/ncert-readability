@@ -1,0 +1,321 @@
+ISBN 81-7450-485-0
+First Edition
+February 2006 Phalguna 1927
+Reprinted
+January 2007 Magha 1928
+October 2007 Kartika 1929
+January 2009 Pausa 1930
+January 2010 Magha 1931
+February 2012 Magha 1933
+January 2013 Pausa 1934
+October 2013 Asvina 1935
+PD 350T MJ
+© National Council of Educational
+Research and Training, 2006
+
+ALL RIGHTS RESERVED
+No part of this publication may be reproduced, stored in a retrieval
+system or transmitted, in any form or by any means, electronic,
+mechanical, photocopying, recording or otherwise without the prior
+permission of the publisher.
+This book is sold subject to the condition that it shall not, by way of
+trade, be lent, re-sold, hired out or otherwise disposed of without the
+publisher’s consent, in any form of binding or cover other than that in
+which it is published.
+The correct price of this publication is the price printed on this page, Any
+revised price indicated by a rubber stamp or by a sticker or by any other
+means is incorrect and should be unacceptable.
+OFFICES OF THE PUBLICATION
+DIVISION, NCERT
+NCERT Campus
+Sri Aurobindo Marg
+New Delhi 110 016
+108, 100 Feet Road
+Hosdakere Halli Extension
+Banashankari III Stage
+Bengaluru 560 085
+
+` 50.00
+
+Phone : 011-26562708
+
+Phone : 080-26725740
+
+Navjivan Trust Building
+P.O. Navjivan
+Ahmedabad 380 014
+
+Phone : 079-27541446
+
+CWC Campus
+Opp. Dhankal Bus Stop
+Panihati
+Kolkata 700 114
+
+Phone : 033-25530454
+
+CWC Complex
+Maligaon
+Guwahati 781 021
+
+Phone : 0361-2674869
+
+Publication Team
+
+Printed on 80 GSM paper with
+NCERT water mark
+Published at the Publication Division
+by the Secretary, National Council of
+Educational Research and Training,
+Sri Aurobindo Marg, New Delhi
+110 016 and printed at A-One Offset
+Printers, 5/34, Kirti Nagar Industrial
+Area, New Delhi.
+
+Head, Publication
+Division
+
+: Ashok Srivastava
+
+Chief Production
+Officer
+
+: Shiv Kumar
+
+Chief Business
+Manager
+
+: Gautam Ganguly
+
+Chief Editor
+: Naresh Yadav
+(Contractual Service)
+Production Officer
+
+: V.B. Meshram
+
+Illustrations
+Bhushan Shaligram
+Cover and Layout
+Shweta Rao
+
+FOREWORD
+T HE National Curriculum Framework, 2005, recommends that
+children's life at school must be linked to their life outside the
+school. This principle marks a departure from the legacy of bookish
+learning which continues to shape our system and causes a gap
+between the school, home and community. The syllabi and
+textbooks developed on the basis of NCF signify an attempt to
+implement this basic idea. They also attempt to discourage rote
+learning and the maintenance of sharp boundaries between different
+subject areas. We hope these measures will take us significantly
+further in the direction of a child-centred system of education
+outlined in the National Policy of Education (1986).
+The success of this effort depends on the steps that school
+principals and teachers will take to encourage children to reflect on
+their own learning and to pursue imaginative activities and questions.
+We must recognise that, given space, time and freedom, children
+generate new knowledge by engaging with the information passed
+on to them by adults. Treating the prescribed textbook as the sole
+basis of examination is one of the key reasons why other resources
+and sites of learning are ignored. Inculcating creativity and initiative
+is possible if we perceive and treat children as participants in learning,
+not as receivers of a fixed body of knowledge.
+These aims imply considerable change in school routines and
+mode of functioning. Flexibility in the daily time-table is as necessary
+as rigour in implementing the annual calendar so that the required
+number of teaching days are actually devoted to teaching. The
+methods used for teaching and evaluation will also determine how
+effective this textbook proves for making children’s life at school a
+happy experience, rather than a source of stress or boredom.
+Syllabus designers have tried to address the problem of curricular
+burden by restructuring and reorienting knowledge at different
+stages with greater consideration for child psychology and the time
+available for teaching. The textbook attempts to enhance this
+endeavor by giving higher priority and space to opportunities for
+contemplation and wondering, discussion in small groups, and
+activities requiring hands-on experience.
+
+iv
+
+The National Council of Educational Research and Training
+(NCERT) appreciates the hard work done by the textbook
+development committee responsible for this book. We wish to
+thank the Chairperson of the advisory group in languages,
+Professor Namwar Singh and the Chief Advisor for this book,
+Professor R. Amritavalli for guiding the work of this committee.
+Several teachers contributed to the development of this textbook;
+we are grateful to their principals for making this possible. We
+are indebted to the institutions and organisations which have
+generously permitted us to draw upon their resources, materials
+and personnel. We are especially grateful to the members of the
+National Monitoring Committee, appointed by the Department of
+Secondary and Higher Education, Ministry of Human Resource
+Development under the Chairpersonship of Professor Mrinal Miri
+and Professor G.P. Deshpande for their valuable time and
+contribution. As an organisation committed to systemic reform
+and continuous improvement in the quality of its products, NCERT
+welcomes comments and suggestions which will enable us to
+undertake further revision and refinements.
+
+New Delhi
+20 December 2005
+
+Director
+National Council of Educational
+Research and Training
+
+TEXTBOOK DEVELOPMENT
+COMMITTEE
+CHAIRPERSON, ADVISORY GROUP IN LANGUAGES
+Professor Namwar Singh, formerly Chairman, School of Languages,
+Jawaharlal Nehru University, New Delhi
+CHIEF ADVISOR
+R. Amritavalli, Professor, English and Foreign Languages University
+(EFLU), Hyderabad
+CHIEF COORDINATOR
+Ram Janma Sharma, Former Head, Department of Education
+in Languages, NCERT, New Delhi
+MEMBERS
+Amita Kochar, PGT (English), Chiranjeev Bharati School, Gurgaon
+Parminder Dutta, Principal, Kendriya Vidyalaya, Airports Authority
+of India, New Delhi
+R. Meganathan, Assistant Professor, Department of Education
+in Languages, NCERT, New Delhi
+Shalini Advani, Formerly Principal, British School, New Delhi
+MEMBER-COORDINATOR
+Nasiruddin Khan, Former Reader in English, Department of
+Education in Languages, NCERT, New Delhi
+
+ACKNOWLEDGEMENTS
+T HE National Council of Educational Research and Training is
+grateful to Professor M.L. Tickoo, formerly of the Central Institute
+of English and Foreign Languages, Hyderabad, and the Regional
+Language Centre, Singapore, for going through the manuscript
+and making valuable suggestions.
+For permission to reproduce copyright material in this book
+NCERT would like to thank the following: M/s Rupa & Co.,
+New Delhi for ‘The Banyan Tree’ by Ruskin Bond; Orient Longman
+Private Limited, New Delhi for ‘A Different Kind of School’ from
+Onward English – Book 5; M/s Ratna Sagar Private Limited, Delhi
+for ‘A House, A Home’ and ‘Where Do All the Teachers Go?’;
+R.K. Laxman for the cartoon from The Best of Laxman; the
+Department of Advertising and Visual Publicity, Government of
+India for the photograph of Kalpana Chawla; and Hamish Hamilton
+for the two photographs of a mongoose and a cobra along with the
+accompanying paragraph from Animals in India by Ylla.
+Special thanks are also due to the Publication Department,
+NCERT, for their support. NCERT gratefully acknowledges the
+contributions made by Bharati Guleria, Copy Editor; Keerti Lingwal,
+Proof Reader and Vijyanti and Uttam Kumar, DTP Operators.
+
+CONSTITUTION OF INDIA
+Part IV A (Article 51 A)
+
+Fundamental Duties
+Fundamental Duties – It shall be the duty of every citizen of India —
+(a) to abide by the Constitution and respect its ideals and institutions, the
+National Flag and the National Anthem;
+(b) to cherish and follow the noble ideals which inspired our national struggle
+for freedom;
+(c) to uphold and protect the sovereignty, unity and integrity of India;
+(d) to defend the country and render national service when called upon to
+do so;
+(e) to promote harmony and the spirit of common brotherhood amongst all the
+people of India transcending religious, linguistic and regional or sectional
+diversities; to renounce practices derogatory to the dignity of women;
+(f) to value and preserve the rich heritage of our composite culture;
+(g) to protect and improve the natural environment including forests, lakes,
+rivers, wildlife and to have compassion for living creatures;
+(h) to develop the scientific temper, humanism and the spirit of inquiry
+and reform;
+(i) to safeguard public property and to abjure violence;
+(j) to strive towards excellence in all spheres of individual and collective
+activity so that the nation constantly rises to higher levels of endeavour
+and achievement;
+(k) who is a parent or guardian, to provide opportunities for education to
+his child or, as the case may be, ward between the age of six and fourteen
+years.
+
+CONTENTS
+FOREWORD ... iii
+
+NOTES
+
+FOR THE
+
+TEACHER
+
+(Units 1–3) ... 1
+1. Who Did Patrick’s Homework? ... 7
+A House, A Home ... 15
+2. How the Dog Found Himself
+a New Master! ... 17
+The Kite ... 27
+3. Taro’s Reward ... 29
+The Quarrel ... 39
+
+NOTES
+
+FOR THE
+
+TEACHER
+
+(Units 4–7) ... 41
+4. An Indian – American Woman in Space:
+Kalpana Chawla ... 45
+Beauty ... 54
+5. A Different Kind of School ... 56
+Where Do All the Teachers Go? ... 67
+6. Who I Am ... 69
+The Wonderful Words ... 82
+7. Fair Play ... 84
+
+NOTES
+
+FOR THE
+
+TEACHER
+
+(Units 8–10) ... 96
+8. A Game of Chance ... 99
+Vocation ... 109
+9. Desert Animals ... 112
+Whatif ... 121
+10. The Banyan Tree ... 124
+
+CONSTITUTION OF INDIA
+Part III (Articles 12 – 35)
+(Subject to certain conditions, some exceptions
+and reasonable restrictions)
+guarantees these
+
+Fundamental Rights
+Right to Equality
+• before law and equal protection of laws;
+• irrespective of religion, race, caste, sex or place of birth;
+• of opportunity in public employment;
+• by abolition of untouchability and titles.
+Right to Freedom
+• of expression, assembly, association, movement, residence and profession;
+• of certain protections in respect of conviction for offences;
+• of protection of life and personal liberty;
+• of free and compulsory education for children between the age of six and fourteen years;
+• of protection against arrest and detention in certain cases.
+Right against Exploitation
+• for prohibition of traffic in human beings and forced labour;
+• for prohibition of employment of children in hazardous jobs.
+Right to Freedom of Religion
+• freedom of conscience and free profession, practice and propagation of religion;
+• freedom to manage religious affairs;
+• freedom as to payment of taxes for promotion of any particular religion;
+• freedom as to attendance at religious instruction or religious worship in
+educational institutions wholly maintained by the State.
+Cultural and Educational Rights
+• for protection of interests of minorities to conserve their language, script and culture;
+• for minorities to establish and administer educational institutions of their choice.
+Right to Constitutional Remedies
+• by issuance of directions or orders or writs by the Supreme Court and High
+Courts for enforcement of these Fundamental Rights.
+
+
