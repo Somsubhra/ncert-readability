@@ -100,6 +100,7 @@ class Parser:
 
         output_file.close()
 
+    # Strip the word so that only alphabets remain
     @staticmethod
     def sanitize_word(word):
         characters = "abcdefghijklmnopqrstuvwxyz"
