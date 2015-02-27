@@ -6,7 +6,7 @@ class Logger:
 
     # Constructor for Logger
     def __init__(self):
-        # Not required
+        # Unusef
         pass
 
     @staticmethod
@@ -20,7 +20,7 @@ class Logger:
     @staticmethod
     def log_success(message):
         print "Success: " + str(message)
-        
+
     @staticmethod
     def log_usage(message):
         print "Usage: " + str(message)

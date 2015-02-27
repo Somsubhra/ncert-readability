@@ -3,6 +3,7 @@ __author__ = 's7a'
 # All imports
 from os import path, walk, stat, mkdir
 from extras import Logger
+from syllable_counter import SyllableCounter
 
 
 # The parser class
@@ -54,7 +55,7 @@ class Parser:
 
         if not in_file.endswith(".txt"):
             return
-            
+
         Logger.log_message("Parsing file " + in_file)
 
         input_file = open(in_file)
@@ -74,7 +75,11 @@ class Parser:
                 if separator in word:
                     self.number_of_sentences[in_file] += 1
 
-            self.number_of_chars[in_file] += len(word)
+            sanitized_word = Parser.sanitize_word(word)
+
+            self.number_of_chars[in_file] += len(sanitized_word)
+            self.number_of_syllables[in_file] += \
+                SyllableCounter.count_syllables(sanitized_word)
 
         input_file.close()
 
@@ -94,3 +99,8 @@ class Parser:
             output_file.write(result)
 
         output_file.close()
+
+    @staticmethod
+    def sanitize_word(word):
+        characters = "abcdefghijklmnopqrstuvwxyz"
+        return ''.join([s for s in word if s in characters])
