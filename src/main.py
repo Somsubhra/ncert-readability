@@ -5,13 +5,14 @@ from os import path
 from extras import Logger
 from corpus import Parser
 from analyzer import Merger
+from analyzer import ReadabilityCalculator
 
 # Define all constants
 CORPUS_DIR = "corpus"
 OUTPUT_DIR = "out"
 STATS_FILE = "stats.csv"
 MERGED_STATS_FILE = "merged_stats.csv"
-
+RESULTS_FILE = "readability_results.csv"
 
 # The main method
 def main():
@@ -26,6 +27,11 @@ def main():
         path.join(OUTPUT_DIR, MERGED_STATS_FILE))
 
     merger.run()
+
+    readability_calc = ReadabilityCalculator(path.join(OUTPUT_DIR, \
+        MERGED_STATS_FILE), path.join(OUTPUT_DIR, RESULTS_FILE))
+
+    readability_calc.run()
 
     Logger.log_success("Application exited successfully")
 

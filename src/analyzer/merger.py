@@ -58,7 +58,7 @@ class Merger:
     def dump_results(self):
         output_file = open(self.out_file, 'w')
 
-        output_file.write("# Grade; Chars; Words; Syllables; Sentences\n")
+        output_file.write("#Grade;Chars;Words;Syllables;Sentences\n")
 
         for grade in self.number_of_words:
             result = str(grade) + \
