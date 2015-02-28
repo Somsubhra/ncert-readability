@@ -2,6 +2,7 @@ __author__ = 's7a'
 
 # All imports
 from extras import Logger
+from scipy.stats.stats import pearsonr
 
 
 # The Readability Calculator class
@@ -45,6 +46,13 @@ class ReadabilityCalculator:
         Logger.log_message("Writing results to " + self.out_file)
         self.dump_results()
         Logger.log_success("Results written to " + self.out_file)
+
+        grades = self.readability_grade.keys()
+        fk_grades = self.readability_grade.values()
+
+        correlation = pearsonr(grades, fk_grades)
+        Logger.log_result("Correlation between grade level and Flesch Kincaid grade: " \
+            + str(correlation))
 
     # Dump the results to output file
     def dump_results(self):

@@ -11,16 +11,16 @@ class Logger:
 
     @staticmethod
     def log_message(message):
-        print "-- " + str(message)
+        print '\033[94m' + '-- ' + str(message) + '\033[0m'
 
     @staticmethod
     def log_error(message):
-        print "Error: " + str(message)
+        print '\033[91m' + 'Error: ' + str(message) + '\033[0m'
 
     @staticmethod
     def log_success(message):
-        print "Success: " + str(message)
+        print '\033[92m' + 'Success: ' + str(message) + '\033[0m'
 
     @staticmethod
-    def log_usage(message):
-        print "Usage: " + str(message)
+    def log_result(message):
+        print '\033[93m' + 'Result: ' + str(message) + '\033[0m'
