@@ -63,7 +63,7 @@ class Parser:
 
         words = content.split()
 
-        self.number_of_words[in_file] = len(words)
+        self.number_of_words[in_file] = 0
         self.number_of_sentences[in_file] = 0
         self.number_of_syllables[in_file] = 0
         self.number_of_chars[in_file] = 0
@@ -77,6 +77,10 @@ class Parser:
 
             sanitized_word = Parser.sanitize_word(word)
 
+            if sanitized_word == "":
+                continue
+
+            self.number_of_words[in_file] += 1
             self.number_of_chars[in_file] += len(sanitized_word)
             self.number_of_syllables[in_file] += \
                 SyllableCounter.count_syllables(sanitized_word)
@@ -87,7 +91,7 @@ class Parser:
     def dump_results(self):
 
         output_file = open(self.out_file, "w")
-        output_file.write("File; Chars; Words; Syllables; Sentences\n")
+        output_file.write("# File; Chars; Words; Syllables; Sentences\n")
 
         for file in self.number_of_words:
             result = str(file) + \
