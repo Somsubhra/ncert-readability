@@ -1,6 +1,6 @@
 __author__ = 's7a'
 
-#All imports
+#  All imports
 from os import path
 from extras import Logger
 from corpus import Parser
@@ -14,6 +14,7 @@ STATS_FILE = "stats.csv"
 MERGED_STATS_FILE = "merged_stats.csv"
 RESULTS_FILE = "readability_results.csv"
 
+
 # The main method
 def main():
     Logger.log_message("Starting NCERT Readability application")
@@ -23,13 +24,13 @@ def main():
     parser.run()
 
     # Merge the stats
-    merger = Merger(path.join(OUTPUT_DIR, STATS_FILE), \
-        path.join(OUTPUT_DIR, MERGED_STATS_FILE))
+    merger = Merger(path.join(OUTPUT_DIR, STATS_FILE),
+                    path.join(OUTPUT_DIR, MERGED_STATS_FILE))
 
     merger.run()
 
-    readability_calc = ReadabilityCalculator(path.join(OUTPUT_DIR, \
-        MERGED_STATS_FILE), path.join(OUTPUT_DIR, RESULTS_FILE))
+    readability_calc = ReadabilityCalculator(path.join(OUTPUT_DIR, MERGED_STATS_FILE),
+                                             path.join(OUTPUT_DIR, RESULTS_FILE))
 
     readability_calc.run()
 

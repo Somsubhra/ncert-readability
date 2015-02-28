@@ -6,7 +6,7 @@ class Logger:
 
     # Constructor for Logger
     def __init__(self):
-        # Unusef
+        # Unused
         pass
 
     @staticmethod

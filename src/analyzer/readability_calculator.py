@@ -31,7 +31,6 @@ class ReadabilityCalculator:
             cols = line.split(";")
 
             grade = int(cols[0])
-            chars = float(cols[1])
             words = float(cols[2])
             syllables = float(cols[3])
             sentences = float(cols[4])

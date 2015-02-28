@@ -93,12 +93,12 @@ class Parser:
         output_file = open(self.out_file, "w")
         output_file.write("#File;Chars;Words;Syllables;Sentences\n")
 
-        for file in self.number_of_words:
-            result = str(file) + \
-                ";" + str(self.number_of_chars[file]) + \
-                ";" + str(self.number_of_words[file]) + \
-                ";" + str(self.number_of_syllables[file]) + \
-                ";" + str(self.number_of_sentences[file]) + "\n"
+        for _file in self.number_of_words:
+            result = str(_file) + \
+                ";" + str(self.number_of_chars[_file]) + \
+                ";" + str(self.number_of_words[_file]) + \
+                ";" + str(self.number_of_syllables[_file]) + \
+                ";" + str(self.number_of_sentences[_file]) + "\n"
 
             output_file.write(result)
 
